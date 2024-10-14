@@ -9,8 +9,5 @@ My name is NGUYEN DANG CAO BANG. I am currently studying at the Faculty of Elect
 
 ![Bang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bangnguyen1122&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/bangnguyen1122/Vending-machine/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bangnguyen1122&repo=Vending-machine&theme=radical" />
-</a>   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Vending-machine&theme=radical)](https://github.com/bangnguyen1122/Vending-machine/)  
 
