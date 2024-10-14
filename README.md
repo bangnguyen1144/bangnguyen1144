@@ -1,5 +1,5 @@
 
-### WELCOME TO MY PAGE ![Vietnam Flag](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/vietnam.png)
+### WELCOME TO MY PAGE 👏👏👏
 
 My name is NGUYEN DANG CAO BANG. I am currently studying at the Faculty of Electrical and Electronics Engineering, specializing in Electronics and Telecommunications, at Ho Chi Minh City University of Technology (HCMUT). My research interests focus on areas such as ASIC and SoC Design, IC Design, and Video and Image Processing on FPGA.<br>
 
