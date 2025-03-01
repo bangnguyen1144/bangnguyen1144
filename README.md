@@ -1,7 +1,7 @@
 
 ### WELCOME TO MY PAGE 👏👏👏
 
-🔭 Education: I am currently a senior student at Ho Chi Minh City University of Technology (HCMUT), majoring in Electronics and Telecommunications.
+🔭 Education: I am currently a senior student at Ho Chi Minh City University of Technology (HCMUT), majoring in Electronics and Telecommunications.<br>
 🌱 Interests: My main research interests lie in ASIC and SoC Design with a strong focus on IC Design. I am passionate about developing innovative semiconductor solutions and continuously expanding my knowledge in VLSI and digital system design.<br>
 
 ## 📫 How to reach me: 
