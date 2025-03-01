@@ -1,7 +1,8 @@
 
 ### WELCOME TO MY PAGE 👏👏👏
 
-My name is NGUYEN DANG CAO BANG. I am currently studying at the Faculty of Electrical and Electronics Engineering, specializing in Electronics and Telecommunications, at Ho Chi Minh City University of Technology (HCMUT). My research interests focus on areas such as ASIC and SoC Design, IC Design, and Video and Image Processing on FPGA.<br>
+🔭 Education: I am currently a senior student at Ho Chi Minh City University of Technology (HCMUT), majoring in Electronics and Telecommunications.
+🌱 Interests: My main research interests lie in ASIC and SoC Design with a strong focus on IC Design. I am passionate about developing innovative semiconductor solutions and continuously expanding my knowledge in VLSI and digital system design.<br>
 
 ## 📫 How to reach me: 
 
