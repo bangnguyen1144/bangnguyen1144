@@ -17,9 +17,10 @@
 <!-- [![GitHub](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/github.png) GitHub](https://github.com/bangnguyen1122) -->
 <!-- [![Youtube](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/youtube.png) Youtube](https://www.youtube.com/@bangnguyen1122-eee) -->
 
-📌 **LinkedIn**: linkedin.com/in/bangnguyen1122
+📌 **LinkedIn**: [linkedin.com/in/bangnguyen1122](https://www.linkedin.com/in/bangnguyen1122/) <br>
+📧 **Email**: [bangnguyen.ee@gmail.com](bangnguyen.ee@gmail.com) <br>
 
-
+## 🔥**Projects:**
 <!-- ![Bang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bangnguyen1122&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Vending-Machine&theme=synthwave)](https://github.com/bangnguyen1122/Vending-Machine/)  
