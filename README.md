@@ -25,8 +25,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Vending-Machine&theme=synthwave)](https://github.com/bangnguyen1122/Vending-Machine/)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Voice-Controlled-Smart-Lighting-System-for-Smart-Home&theme=cobalt)](https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Voice-Controlled-Smart-Lighting-System-for-Smart-Home&theme=outrun)](https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Digital-Clock&theme=outrun)](https://github.com/bangnguyen1122/Digital-Clock/)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Digital-Clock&theme=cobalt)](https://github.com/bangnguyen1122/Digital-Clock/)  
 
-<!-- Theme: Retrowave, Outrun, Cyberpunk, Vaporwave, Futuresynth, Darksynth, 80s Aesthetic, Retro Futurism, Neon Noir, Lo-fi Vapor, Dreamwave, Chillwave, New Retro Wave, Spacewave, Glitchwave. -->
+<!-- radical, merko, gruvbox, dark, onedark, cobalt, synthwave, highcontrast, dracula, outrun   -->
