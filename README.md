@@ -27,6 +27,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Voice-Controlled-Smart-Lighting-System-for-Smart-Home&theme=outrun)](https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Digital-Clock&theme=cobalt)](https://github.com/bangnguyen1122/Digital-Clock/)  
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Digital-Clock&theme=cobalt)](https://github.com/bangnguyen1122/Digital-Clock/)  -->
 
 <!-- radical, merko, gruvbox, dark, onedark, cobalt, synthwave, highcontrast, dracula, outrun   -->
