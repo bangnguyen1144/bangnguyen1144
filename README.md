@@ -23,7 +23,7 @@
 ## 🔥**Projects:**
 <!-- ![Bang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bangnguyen1122&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Vending-Machine&theme=synthwave)](https://github.com/bangnguyen1122/Vending-Machine/)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Design-of-a-Vending-Machine-using-System-Verilog&theme=synthwave)](https://github.com/bangnguyen1122/Design-of-a-Vending-Machine-using-System-Verilog)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Voice-Controlled-Smart-Lighting-System-for-Smart-Home&theme=outrun)](https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/)  
 
