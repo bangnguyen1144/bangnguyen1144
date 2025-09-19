@@ -21,16 +21,10 @@
 📧 **Email**: [bangnguyen.ee@gmail.com](bangnguyen.ee@gmail.com) <br>
 
 <!-- ## 🔥**Projects:** -->
-<!-- ![Bang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bangnguyen1122&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Design-and-Development-of-IoT-Applications-Course&theme=synthwave)](https://github.com/bangnguyen1122/Design-and-Development-of-IoT-Applications-Course) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Design-of-a-Vending-Machine-using-System-Verilog&theme=synthwave)](https://github.com/bangnguyen1122/Design-of-a-Vending-Machine-using-System-Verilog) --> 
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Voice-Controlled-Smart-Lighting-System-for-Smart-Home&theme=outrun)](https://github.com/bangnguyen1122/Voice-Controlled-Smart-Lighting-System-for-Smart-Home/) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Digital-Clock&theme=cobalt)](https://github.com/bangnguyen1122/Digital-Clock/)  -->
+<a href="https://github.com/bangnguyen1122/Multicast-Forwarding-with-Trickle">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bangnguyen1122&repo=Multicast-Forwarding-with-Trickle&theme=radical" />
+</a> 
 
 
-
-<!-- radical, merko, gruvbox, dark, onedark, cobalt, synthwave, highcontrast, dracula, outrun   -->
