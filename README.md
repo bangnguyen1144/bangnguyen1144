@@ -3,8 +3,8 @@
 
 👋 Hi, I'm Bang Nguyen. <br>
 🎓 I'm a senior student at Ho Chi Minh City University of Technology (HCMUT), majoring in Electronics and Telecommunications. <br>
-🌱 I'm especially interested in ASIC and SoC Design, with a strong focus on IC Design. I’m passionate about developing innovative semiconductor solutions and constantly expanding my knowledge in VLSI and digital system design. <br> 
-<br>
+<!--  🌱 I'm especially interested in ASIC and SoC Design, with a strong focus on IC Design. I’m passionate about developing innovative semiconductor solutions and constantly expanding my knowledge in VLSI and digital system design. <br> 
+<br>  -->
 🛠️ **Technical Skills:** <br>
 🔹**Languages**: Verilog, System Verilog, C. <br>
 🔹**EDA Tools**: Vivado, Quartus Prime, Cadence Virtuoso. <br>
