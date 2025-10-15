@@ -21,7 +21,7 @@
 📧 **Email**: [bangnguyen.ee@gmail.com](bangnguyen.ee@gmail.com) <br>
 
 <!-- ## 🔥**Projects:** -->
-
+<!--
 <a href="https://github.com/bangnguyen1122/Multicast-Forwarding-with-Trickle">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Multicast-Forwarding-with-Trickle&theme=radical&cache_seconds=21600"
@@ -33,7 +33,7 @@
        src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Multicast-Protocol-for-Low-Power-and-Lossy-Networks&theme=gruvbox&cache_seconds=21600&refresh=1"
        alt="bangnguyen1122/Multicast-Protocol-for-Low-Power-and-Lossy-Networks" />
 </a>
-
+-->
 
 
 
