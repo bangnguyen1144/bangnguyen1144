@@ -17,7 +17,7 @@
 <!-- [![GitHub](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/github.png) GitHub](https://github.com/bangnguyen1122) -->
 <!-- [![Youtube](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/youtube.png) Youtube](https://www.youtube.com/@bangnguyen1122-eee) -->
 
-📌 **LinkedIn**: [linkedin.com/in/bangnguyen1122](https://www.linkedin.com/in/bangnguyen1122/) <br>
+📌 **LinkedIn**: [linkedin.com/in/bangnguyen1122](https://www.linkedin.com/in/bangnguyen1144/) <br>
 
 <!--
 📧 **Email**: [bangnguyen.ee@gmail.com](bangnguyen.ee@gmail.com) <br>
