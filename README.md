@@ -13,28 +13,28 @@
 
 ## 📫 **How to reach me:**
 
-<!-- [![Linkedin](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/linked%20in.png) LinkedIn](https://www.linkedin.com/in/bangnguyen1122/) -->
-<!-- [![GitHub](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/github.png) GitHub](https://github.com/bangnguyen1122) -->
-<!-- [![Youtube](https://github.com/bangnguyen1122/bangnguyen1122/blob/main/Update/youtube.png) Youtube](https://www.youtube.com/@bangnguyen1122-eee) -->
+<!-- [![Linkedin](https://github.com/bangnguyen1144/bangnguyen1144/blob/main/Update/linked%20in.png) LinkedIn](https://www.linkedin.com/in/bangnguyen1144/) -->
+<!-- [![GitHub](https://github.com/bangnguyen1144/bangnguyen1144/blob/main/Update/github.png) GitHub](https://github.com/bangnguyen1144) -->
+<!-- [![Youtube](https://github.com/bangnguyen1144/bangnguyen1144/blob/main/Update/youtube.png) Youtube](https://www.youtube.com/@bangnguyen1122-eee) -->
 
 📌 **LinkedIn**: [linkedin.com/in/bangnguyen1144](https://www.linkedin.com/in/bangnguyen1144/) <br>
 
 <!--
-📧 **Email**: [bangnguyen.ee@gmail.com](bangnguyen.ee@gmail.com) <br>
+📧 **Email**: [bang.nguyen1144@gmail.com](bang.nguyen1144@gmail.com) <br>
 -->
 
 <!-- ## 🔥**Projects:** -->
 <!--
-<a href="https://github.com/bangnguyen1122/Multicast-Forwarding-with-Trickle">
+<a href="https://github.com/bangnguyen1144/Multicast-Forwarding-with-Trickle">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Multicast-Forwarding-with-Trickle&theme=radical&cache_seconds=21600"
-       alt="bangnguyen1122/Multicast-Forwarding-with-Trickle" />
+       src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1144&repo=Multicast-Forwarding-with-Trickle&theme=radical&cache_seconds=21600"
+       alt="bangnguyen1144/Multicast-Forwarding-with-Trickle" />
 </a>
 
-<a href="https://github.com/bangnguyen1122/Multicast-Protocol-for-Low-Power-and-Lossy-Networks">
+<a href="https://github.com/bangnguyen1144/Multicast-Protocol-for-Low-Power-and-Lossy-Networks">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1122&repo=Multicast-Protocol-for-Low-Power-and-Lossy-Networks&theme=gruvbox&cache_seconds=21600&refresh=1"
-       alt="bangnguyen1122/Multicast-Protocol-for-Low-Power-and-Lossy-Networks" />
+       src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1144&repo=Multicast-Protocol-for-Low-Power-and-Lossy-Networks&theme=gruvbox&cache_seconds=21600&refresh=1"
+       alt="bangnguyen1144/Multicast-Protocol-for-Low-Power-and-Lossy-Networks" />
 </a>
 -->
 
