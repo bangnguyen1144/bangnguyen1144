@@ -6,7 +6,7 @@
 <!--  🌱 I'm especially interested in ASIC and SoC Design, with a strong focus on IC Design. I’m passionate about developing innovative semiconductor solutions and constantly expanding my knowledge in VLSI and digital system design. <br> 
 <br>  -->
 🛠️ **Technical Skills:** <br>
-🔹**Languages**: Verilog, System Verilog, C. <br>
+🔹**Languages**: C, Verilog, System Verilog. <br>
 🔹**EDA Tools**: Vivado, Quartus Prime, Cadence Virtuoso. <br>
 🔹**Platforms**: Intel FPGA, Xilinx FPGA. <br>
 
