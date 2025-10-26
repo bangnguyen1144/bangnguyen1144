@@ -23,19 +23,13 @@
 📧 **Email**: [bang.nguyen1144@gmail.com](bang.nguyen1144@gmail.com) <br>
 -->
 
-<!-- ## 🔥**Projects:** -->
 <!--
-<a href="https://github.com/bangnguyen1144/Multicast-Forwarding-with-Trickle">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1144&repo=Multicast-Forwarding-with-Trickle&theme=radical&cache_seconds=21600"
-       alt="bangnguyen1144/Multicast-Forwarding-with-Trickle" />
+## 🔥**Projects:**
+
+<a href="https://github.com/bangnguyen1144/FPGA-Based-Edge-Detection-with-Salt-and-Pepper-Denoising">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bangnguyen1144&repo=FPGA-Based-Edge-Detection-with-Salt-and-Pepper-Denoising&theme=radical" />
 </a>
 
-<a href="https://github.com/bangnguyen1144/Multicast-Protocol-for-Low-Power-and-Lossy-Networks">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=bangnguyen1144&repo=Multicast-Protocol-for-Low-Power-and-Lossy-Networks&theme=gruvbox&cache_seconds=21600&refresh=1"
-       alt="bangnguyen1144/Multicast-Protocol-for-Low-Power-and-Lossy-Networks" />
-</a>
 -->
 
 
@@ -43,7 +37,5 @@
 
 
 
-
-
-<!--  radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, monokai, nightowl, prussian, vue, algolia, buefy, blueberry, graywhite, omni, react, jolly, maroongold, yeblu, swift, panda, aura, apprentice, moltack -->
+<!-- Theme list: radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, monokai, nightowl, prussian, vue, algolia, buefy, blueberry, graywhite, omni, react, jolly, maroongold, yeblu, swift, panda, aura, apprentice, moltack -->
 
